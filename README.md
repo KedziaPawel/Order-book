@@ -29,7 +29,7 @@ This project contains the order book for XBT-USD and ETH-USD pairs.
 ## Installation
 
 ```sh
-$ git clone https://github.com/KedziaPawel/Pawel-05-10-2021.git
+$ git clone https://github.com/KedziaPawel/Order-book.git
 $ cd orderbook
 $ yarn install
 ```
